@@ -1,6 +1,6 @@
 # 🛠️ Wuzzuf Engineering Jobs Scraper  
 
-A **powerful and automated web scraping tool** built with **Python + Selenium** to collect real-time **engineering job listings** from [Wuzzuf](https://wuzzuf.net/) – one of the leading job portals in the Middle East.  
+A **powerful and automated web scraping tool** built with **Python + Selenium** to collect real-time **engineering job listings** from [Wuzzuf](https://wuzzuf.net/) – one of the leading job portals in the Middle East 
 
 This project extracts key job details, handles **dynamic content** & **pagination**, and saves the results in **CSV** and **JSON** for further analysis. Perfect for **job seekers, recruiters, and data enthusiasts** looking to analyze market trends.  
 
